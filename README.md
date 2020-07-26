@@ -24,7 +24,7 @@
 - [Getting Started with Python](#getting-started-with-python)
 - [Day 1](#day-1)
 - [Day 2](#day-2)
-- [Capstone Project](#hangman-game-capstone-project)
+- [Capstone Project](#capstone-project)
 - [Further Reading](#further-reading)
 - [Python Books](#python-books-)
 - [Future Path??](#future-scope-and-path)
@@ -160,10 +160,11 @@ python hello_world.py
 | [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-named-tuple.py) |
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 
-## Hangman Game (Capstone Project)
-The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
-Another game 👾 built on Python (this one with actual GUI) can be viewed 
-[here](https://github.com/anishLearnsToCode/alien-invasion) 🎮🕹. 
+## Capstone Project
+- [Hangman Game (CLI)](https://github.com/anishLearnsToCode/hangman-cli-game)
+- [Alien Invasion 👾 (GUI)](https://github.com/anishLearnsToCode/alien-invasion)
+
+Have Fun 😀🎮🕹! 
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
