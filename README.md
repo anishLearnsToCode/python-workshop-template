@@ -270,7 +270,7 @@ that wish to maintain their code over teams of varied sizes and manage projects.
 are currently reading in is being maintained by [git]() &
 has been deployed on [github]().
 
-Being proficeint with git and version control will help you manage all your projects, be in any language Java,
+Being proficient with git and version control will help you manage all your projects, be in any language Java,
 Python, C++ and even non-programming projects very efficiently and you will be able to easily maintain project 
 state over all your devices.
 
